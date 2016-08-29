@@ -5,7 +5,7 @@ and shows them. The most popular and most recent movies can be fetched.
 Furthermore, users can also search for movies and view the details.It also 
 works for tabs.
 
-The testing is done using Appium
+The testing will be done using Appium
 
 Technologies used:
 	RecyclerView and grid view
